@@ -1,0 +1,18 @@
+{
+    "name": "zest/image",
+    "description": "A Zest package for manipulating images",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lablnet",
+            "email": "mumerfarooqlablnet01@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+             "Zest\\": "src/"
+        }
+    },    
+    "require": {}
+}
