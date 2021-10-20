@@ -13,6 +13,8 @@
         "psr-4": {
              "Zest\\": "src/"
         }
-    },    
-    "require": {}
+    },
+    "require": {
+        "ext-gd": "*"
+    }
 }
